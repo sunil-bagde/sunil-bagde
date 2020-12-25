@@ -11,12 +11,8 @@
 [2]: https://www.linkedin.com/in/im-sunil/
 
 
-```javascript
-while (life) {
-  return(
-    `If I am not for myself, who will be for me
-     If I am only for myself, what am I? And if not now, when?
-     ~Rabbi Hillel.
-  `);
-}
-```
+## Fernando Rojo
+
+![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=thesunilbagde&count_private=true&show_icons=true&theme=radical)
+ 
+ 
