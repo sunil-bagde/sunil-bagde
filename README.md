@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on [Jsoniary](http://jsoniary.io)
  
- 🌱 Mastering Algorithms and DS
+ 🌱 Exploring Algorithms and DS
 
 ### I am here
 
