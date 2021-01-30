@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Jsoniary](http://jsoniary.io)
-- 🌱 I’m currently learning Algorithms and DS
+ 🔭 I’m currently working on [Jsoniary](http://jsoniary.io)
+ 🌱 Mastering Algorithms and DS
 
 ### I am here
 
