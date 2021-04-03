@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on [Jsoniary](http://jsoniary.io)
+  👨🏻‍💻 I’m currently working on [Jsoniary](http://jsoniary.io)
  
- 🌱 Exploring Algorithms and DS
+  🧭 Exploring Algorithms and DS
 
 ### I am here
 
