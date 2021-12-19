@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  👨🏻‍💻 I’m currently working on [Jsoniary](http://jsoniary.io)
+  👨🏻‍💻 I’m currently working on CSS devtools
  
   🧭 Exploring Algorithms and DS
 
