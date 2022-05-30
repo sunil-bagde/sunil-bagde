@@ -16,4 +16,4 @@
 
 ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=thesunilbagde&count_private=true&show_icons=true&theme=react)
  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesunilbagde)](https://github.com/anuraghazra/github-readme-stats)
