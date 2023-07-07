@@ -14,6 +14,4 @@
 
 ## Sunil Bagde
 
-![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-bagde&count_private=true&show_icons=true&theme=swift)
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bagde)](https://github.com/anuraghazra/github-readme-stats)
